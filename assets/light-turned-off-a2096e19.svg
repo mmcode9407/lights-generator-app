@@ -1,0 +1,18 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Light bulb">
+<path id="Rectangle 1" d="M29.7614 18.865C29.7614 16.6559 31.5522 14.865 33.7614 14.865H34.0479C36.257 14.865 38.0479 16.6559 38.0479 18.865V26.4509H29.7614V18.865Z" fill="url(#paint0_linear_1_1856)"/>
+<circle id="Ellipse 1" cx="33.9045" cy="36.6465" r="13.2805" fill="#AEAEAE"/>
+<ellipse id="Ellipse 14" opacity="0.5" cx="33.9046" cy="32.3611" rx="10.2444" ry="8.99518" fill="url(#paint1_radial_1_1856)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_1856" x1="38.0479" y1="19.2393" x2="29.7614" y2="19.1452" gradientUnits="userSpaceOnUse">
+<stop offset="0.114583" stop-color="#242424"/>
+<stop offset="0.492654" stop-color="#6E6962" stop-opacity="0.85"/>
+<stop offset="0.869792" stop-color="#212121"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1_1856" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(33.9046 32.3611) rotate(43.0087) scale(9.06143 10.1627)">
+<stop offset="0.328125" stop-color="#FEFBF1" stop-opacity="0.99"/>
+<stop offset="1" stop-color="#FEFBF1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
