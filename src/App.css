@@ -1,5 +1,13 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+.nav {
+	display: flex;
+}
+
+.nav > * {
+	margin-right: 70px;
 }
